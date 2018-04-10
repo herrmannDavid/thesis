@@ -1,7 +1,7 @@
 # My fancy thesis
 
 ## Introduction
-I was motivated because ...
+I am still motivated ...
 
 ## Important theory
 Recapitulate important theory papers
@@ -10,6 +10,8 @@ Recapitulate important theory papers
 Lots of plots
 
 ## Bibliography
-
+[1] important
+[2] also important
 
 ## Appendix
+I want to thank my family ...
