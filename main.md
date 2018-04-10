@@ -14,6 +14,7 @@ some explanatory text ...
 ## Bibliography
 [1] important
 [2] also important
+[3] paper3
 
 ## Appendix
 I want to thank my family ...
